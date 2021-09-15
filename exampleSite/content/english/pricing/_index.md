@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Our Services"
 subtitle: ""
 # meta description
 description: "This is meta description"
@@ -49,6 +49,20 @@ business:
     label : "Get started for free"
     link : "#"
 
+business:
+  name : "Business Plan"
+  price: "$49"
+  price_per : "month"
+  info : "Best For Large Individuals"
+  services:
+  - "Express Service"
+  - "Customs Clearance"
+  - "Time-Critical Services"
+  button:
+    enable : true
+    label : "Get started for free"
+    link : "#"
+    
 call_to_action:
   enable : true
   title : "Need a larger plan?"
